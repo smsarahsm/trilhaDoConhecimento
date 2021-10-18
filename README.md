@@ -7,3 +7,5 @@ git add .
 git commit -m "inserirMensagem"
 git pull
 git push
+
+git config --globa user.name ""
